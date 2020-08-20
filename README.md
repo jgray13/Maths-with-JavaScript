@@ -1,6 +1,6 @@
 # Maths-with-javaScript
-Basic maths sums with javaScript
-addition, 
+Basic maths sums with javaScript.
+Addition, 
 subtraction, 
 multiplication, 
 division, 
