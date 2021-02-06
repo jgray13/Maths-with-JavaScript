@@ -1,7 +1,7 @@
 # Maths-with-JavaScript
 Basic maths sums with JavaScript.
 
-&bull; Addition
+&bull; addition
 
 &bull; subtraction
 
